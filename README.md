@@ -1,7 +1,7 @@
 # Humidity and Temperature Display
 A simple Arduino project to display temperature and humidity.
 
-Parts:
+**Parts:**
 
 * Arduino UNO or Nano
 * Breadboard or PCB
